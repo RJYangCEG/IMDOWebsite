@@ -1,7 +1,17 @@
-#mainHeader {
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
+
+/* #mainHeader {
     size: 100px;
 }
 
 #redText {
     color: red;
-}
+} */
